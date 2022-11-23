@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This app won't work because I exhausted my starting quota.This is the error you will get if you want to run this app
+
+"The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>."
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
